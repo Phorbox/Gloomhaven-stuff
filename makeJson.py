@@ -1,5 +1,9 @@
 
 import json
+jsonFileName = f"json\\perks.json"
+csvFileName = f"csv\\perks.csv"
+
+
 
 
 def loopFileRead(name):
@@ -56,7 +60,7 @@ def writeJson(name,dict):
     perkyFile.write(dict)
     perkyFile.close()
 
-jsoner = loopFileRead("perks.csv")
+jsoner = loopFileRead(csvFileName)
 jsoner = json.dumps(jsoner,indent=4)
 # print(jsoner)
-writeJson("perks.json",jsoner)
+writeJson(jsonFileName,jsoner)

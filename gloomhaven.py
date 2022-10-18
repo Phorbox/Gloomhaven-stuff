@@ -1,10 +1,10 @@
 import random,re,time
 nTests = 6
 damage = 3
-
+baseDeckName = "csv\\baseDeck"
 
 def makeBaseDeck():
-    deckFile = open("baseDeck","r")
+    deckFile = open(baseDeckName,"r")
     decker = []
     for each in deckFile:
         decker.append(each[:-1])
@@ -82,7 +82,7 @@ tests = 10
 for i in range(0,nTests):
     start_time = time.time()
     avger = testDeck(testDecker,tests,3)
-    print(f"---Average: {avger}")
-    print(f"---Time:    {round((time.time() - start_time),3)}s ---")
+    print(f"---Average:\t{avger}\t---")
+    print(f"---Time:\t{round((time.time() - start_time),3)}s\t---")
     tests *= 10
 
