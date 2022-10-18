@@ -4,8 +4,6 @@ jsonFileName = f"json\\perks.json"
 csvFileName = f"csv\\perks.csv"
 
 
-
-
 def loopFileRead(name):
     perkyFile = open(name,"r")
     bigDict = {}

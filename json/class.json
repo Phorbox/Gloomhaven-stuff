@@ -1,0 +1,1092 @@
+{
+    "Aesther Diviner": [
+        {
+            "add": [
+                "+1",
+                "+1"
+            ],
+            "else": [
+                "ignore Scenario Effects"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling curse",
+                "+0 rolling curse"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling heal1",
+                "+0 rolling heal1"
+            ]
+        },
+        {
+            "remove": [
+                "-2"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1 heal2"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1 shield"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 curse"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 regenerate"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+3 muddle"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+3 shield"
+            ],
+            "remove": [
+                "+1",
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+3 shield"
+            ],
+            "remove": [
+                "+1",
+                "+1"
+            ]
+        }
+    ],
+    "Human Voidwarden": [
+        {
+            "add": [
+                "+1 curse"
+            ]
+        },
+        {
+            "add": [
+                "+1 curse"
+            ]
+        },
+        {
+            "add": [
+                "+1 heal1"
+            ]
+        },
+        {
+            "add": [
+                "+1 heal1"
+            ]
+        },
+        {
+            "add": [
+                "+1 heal1"
+            ]
+        },
+        {
+            "add": [
+                "+1 poison"
+            ]
+        },
+        {
+            "add": [
+                "+3"
+            ]
+        },
+        {
+            "remove": [
+                "-2"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0 heal1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0 heal1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1 element"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 element"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 element"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 element"
+            ],
+            "remove": [
+                "+0"
+            ]
+        }
+    ],
+    "Savvas Cragheart": [
+        {
+            "add": [
+                "-2",
+                "+2",
+                "+2"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ]
+        },
+        {
+            "add": [
+                "+2 muddle"
+            ]
+        },
+        {
+            "add": [
+                "+2 muddle"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling element",
+                "+0 rolling element"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling element",
+                "+0 rolling element"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling element",
+                "+0 rolling element"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling push2",
+                "+0 rolling push2"
+            ]
+        },
+        {
+            "else": [
+                "ignore Item Effects"
+            ]
+        },
+        {
+            "else": [
+                "ignore Scenario Effects"
+            ]
+        },
+        {
+            "remove": [
+                "+0",
+                "+0",
+                "+0",
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        }
+    ],
+    "Quatryl Demolitionist": [
+        {
+            "add": [
+                "+1 aoe1"
+            ]
+        },
+        {
+            "add": [
+                "+1 aoe1"
+            ]
+        },
+        {
+            "add": [
+                "+2"
+            ]
+        },
+        {
+            "add": [
+                "+2"
+            ]
+        },
+        {
+            "remove": [
+                "+0",
+                "+0",
+                "+0",
+                "+0"
+            ]
+        },
+        {
+            "remove": [
+                "-2",
+                "+1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0 poison"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+2 muddle"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 muddle"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        }
+    ],
+    "Inox Brute": [
+        {
+            "add": [
+                "+1"
+            ],
+            "else": [
+                "ignore Item Effects"
+            ]
+        },
+        {
+            "add": [
+                "+1 shield1"
+            ]
+        },
+        {
+            "add": [
+                "+3"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling disarm",
+                "rolling muddle"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling stun"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling stun"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling target1"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling target1"
+            ]
+        },
+        {
+            "add": [
+                "+0 push1",
+                "+0 push1",
+                "+0 push1"
+            ]
+        },
+        {
+            "add": [
+                "+0 push1",
+                "+0 push1",
+                "+0 push1"
+            ]
+        },
+        {
+            "add": [
+                "+1",
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+1",
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling pierce3",
+                "+0 rolling pierce3"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        }
+    ],
+    "Vermling Mindthief": [
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling disarm",
+                "rolling muddle"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling stun"
+            ]
+        },
+        {
+            "add": [
+                "+0 pull1",
+                "+0 pull1",
+                "+0 pull1"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling muddle",
+                "+0 rolling muddle",
+                "+0 rolling muddle"
+            ]
+        },
+        {
+            "add": [
+                "+1 rolling",
+                "+1 rolling"
+            ]
+        },
+        {
+            "add": [
+                "+1 rolling",
+                "+1 rolling"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling immobilize",
+                "+0 rolling immobilize"
+            ]
+        },
+        {
+            "else": [
+                "ignore Scenario Effects"
+            ]
+        },
+        {
+            "remove": [
+                "+0",
+                "+0",
+                "+0",
+                "+0"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0"
+            ],
+            "remove": [
+                "-2"
+            ]
+        },
+        {
+            "add": [
+                "+2",
+                "+2"
+            ],
+            "remove": [
+                "+1",
+                "+1"
+            ]
+        }
+    ],
+    "Human Scoundrel": [
+        {
+            "add": [
+                "+0 rolling invisible"
+            ]
+        },
+        {
+            "add": [
+                "+1 rolling",
+                "+1 rolling"
+            ]
+        },
+        {
+            "add": [
+                "+1 rolling",
+                "+1 rolling"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling muddle",
+                "+0 rolling muddle"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling pierce3",
+                "+0 rolling pierce3"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling poison",
+                "+0 rolling poison"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling poison",
+                "+0 rolling poison"
+            ]
+        },
+        {
+            "else": [
+                "ignore Scenario Effects"
+            ]
+        },
+        {
+            "remove": [
+                "+0",
+                "+0",
+                "+0",
+                "+0"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0"
+            ],
+            "remove": [
+                "-2"
+            ]
+        },
+        {
+            "add": [
+                "+2"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2"
+            ],
+            "remove": [
+                "+0"
+            ]
+        }
+    ],
+    "Orchid Spellweaver": [
+        {
+            "add": [
+                "+0 stun"
+            ]
+        },
+        {
+            "add": [
+                "+1 curse"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ]
+        },
+        {
+            "add": [
+                "+1 wound"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+1",
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+1",
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling element",
+                "+0 rolling element"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling element",
+                "+0 rolling element"
+            ]
+        },
+        {
+            "remove": [
+                "+0",
+                "+0",
+                "+0",
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        }
+    ],
+    "Quatryl Tinkerer": [
+        {
+            "add": [
+                "+0 target1"
+            ]
+        },
+        {
+            "add": [
+                "+1 heal2"
+            ]
+        },
+        {
+            "add": [
+                "+1 heal2"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ]
+        },
+        {
+            "add": [
+                "+1 wound"
+            ]
+        },
+        {
+            "add": [
+                "+1 wound"
+            ]
+        },
+        {
+            "add": [
+                "+3"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling muddle",
+                "+0 rolling muddle",
+                "+0 rolling muddle"
+            ]
+        },
+        {
+            "add": [
+                "+1",
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+0 rolling element",
+                "+0 rolling element"
+            ]
+        },
+        {
+            "else": [
+                "ignore Scenario Effects"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0"
+            ],
+            "remove": [
+                "-2"
+            ]
+        }
+    ],
+    "Valrath Red Guard": [
+        {
+            "add": [
+                "+1 element2"
+            ]
+        },
+        {
+            "add": [
+                "+1 element2"
+            ]
+        },
+        {
+            "add": [
+                "+1 shield1"
+            ]
+        },
+        {
+            "add": [
+                "+1 shield1"
+            ]
+        },
+        {
+            "remove": [
+                "+0",
+                "+0",
+                "+0",
+                "+0"
+            ]
+        },
+        {
+            "remove": [
+                "-2",
+                "+1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1"
+            ],
+            "remove": [
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 wound"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ],
+            "remove": [
+                "+1"
+            ]
+        }
+    ],
+    "Inox Hatchet": [
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "add": [
+                "+2 element"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "remove": [
+                "-1",
+                "-1"
+            ]
+        },
+        {
+            "add": [
+                "+0 stun"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 immobilize"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 poison"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 push2"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 wound"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+2 muddle"
+            ],
+            "remove": [
+                "+0"
+            ]
+        },
+        {
+            "add": [
+                "+1 stun"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+3"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+3"
+            ],
+            "remove": [
+                "+1"
+            ]
+        },
+        {
+            "add": [
+                "+3"
+            ],
+            "remove": [
+                "+1"
+            ]
+        }
+    ]
+}
