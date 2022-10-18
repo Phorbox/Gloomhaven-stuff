@@ -1,0 +1,425 @@
+{
+    "1": {
+        "add": [
+            "-2",
+            "+2",
+            "+2"
+        ]
+    },
+    "2": {
+        "add": [
+            "+0 stun"
+        ]
+    },
+    "3": {
+        "add": [
+            "+0 target1"
+        ]
+    },
+    "4": {
+        "add": [
+            "+1 aoe1"
+        ]
+    },
+    "5": {
+        "add": [
+            "+1 curse"
+        ]
+    },
+    "6": {
+        "add": [
+            "+1 element2"
+        ]
+    },
+    "7": {
+        "add": [
+            "+1 heal1"
+        ]
+    },
+    "8": {
+        "add": [
+            "+1 heal2"
+        ]
+    },
+    "9": {
+        "add": [
+            "+1"
+        ],
+        "else": [
+            "ignore Item Effects"
+        ]
+    },
+    "10": {
+        "add": [
+            "+1 immobilize"
+        ]
+    },
+    "11": {
+        "add": [
+            "+1 poison"
+        ]
+    },
+    "12": {
+        "add": [
+            "+1 shield1"
+        ]
+    },
+    "13": {
+        "add": [
+            "+1 wound"
+        ]
+    },
+    "14": {
+        "add": [
+            "+2"
+        ]
+    },
+    "15": {
+        "add": [
+            "+2 element"
+        ]
+    },
+    "16": {
+        "add": [
+            "+2 muddle"
+        ]
+    },
+    "17": {
+        "add": [
+            "+3"
+        ]
+    },
+    "18": {
+        "add": [
+            "+0 rolling disarm",
+            "rolling muddle"
+        ]
+    },
+    "19": {
+        "add": [
+            "+0 rolling invisible"
+        ]
+    },
+    "20": {
+        "add": [
+            "+0 rolling stun"
+        ]
+    },
+    "21": {
+        "add": [
+            "+0 rolling target1"
+        ]
+    },
+    "22": {
+        "add": [
+            "+0 pull1",
+            "+0 pull1",
+            "+0 pull1"
+        ]
+    },
+    "23": {
+        "add": [
+            "+0 push1",
+            "+0 push1",
+            "+0 push1"
+        ]
+    },
+    "24": {
+        "add": [
+            "+0 rolling muddle",
+            "+0 rolling muddle",
+            "+0 rolling muddle"
+        ]
+    },
+    "25": {
+        "add": [
+            "+1",
+            "+1"
+        ]
+    },
+    "26": {
+        "add": [
+            "+1",
+            "+1"
+        ],
+        "else": [
+            "ignore Scenario Effects"
+        ]
+    },
+    "27": {
+        "add": [
+            "+1 rolling",
+            "+1 rolling"
+        ]
+    },
+    "28": {
+        "add": [
+            "+0 rolling curse",
+            "+0 rolling curse"
+        ]
+    },
+    "29": {
+        "add": [
+            "+0 rolling element",
+            "+0 rolling element"
+        ]
+    },
+    "30": {
+        "add": [
+            "+0 rolling heal1",
+            "+0 rolling heal1"
+        ]
+    },
+    "31": {
+        "add": [
+            "+0 rolling immobilize",
+            "+0 rolling immobilize"
+        ]
+    },
+    "32": {
+        "add": [
+            "+0 rolling muddle",
+            "+0 rolling muddle"
+        ]
+    },
+    "33": {
+        "add": [
+            "+0 rolling pierce3",
+            "+0 rolling pierce3"
+        ]
+    },
+    "34": {
+        "add": [
+            "+0 rolling poison",
+            "+0 rolling poison"
+        ]
+    },
+    "35": {
+        "add": [
+            "+0 rolling push2",
+            "+0 rolling push2"
+        ]
+    },
+    "36": {
+        "else": [
+            "ignore Item Effects"
+        ]
+    },
+    "37": {
+        "else": [
+            "ignore Scenario Effects"
+        ]
+    },
+    "38": {
+        "remove": [
+            "+0",
+            "+0",
+            "+0",
+            "+0"
+        ]
+    },
+    "39": {
+        "remove": [
+            "-2"
+        ]
+    },
+    "40": {
+        "remove": [
+            "-2",
+            "+1"
+        ]
+    },
+    "41": {
+        "remove": [
+            "-1",
+            "-1"
+        ]
+    },
+    "42": {
+        "add": [
+            "+0 heal1"
+        ],
+        "remove": [
+            "-1"
+        ]
+    },
+    "43": {
+        "add": [
+            "+0 poison"
+        ],
+        "remove": [
+            "-1"
+        ]
+    },
+    "44": {
+        "add": [
+            "+1"
+        ],
+        "remove": [
+            "-1"
+        ]
+    },
+    "45": {
+        "add": [
+            "+1 heal2"
+        ],
+        "remove": [
+            "-1"
+        ]
+    },
+    "46": {
+        "add": [
+            "+0"
+        ],
+        "remove": [
+            "-2"
+        ]
+    },
+    "47": {
+        "add": [
+            "+1 shield"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "48": {
+        "add": [
+            "+0 stun"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "49": {
+        "add": [
+            "+1 element"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "50": {
+        "add": [
+            "+1 immobilize"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "51": {
+        "add": [
+            "+1 poison"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "52": {
+        "add": [
+            "+1 push2"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "53": {
+        "add": [
+            "+1 wound"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "54": {
+        "add": [
+            "+2"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "55": {
+        "add": [
+            "+2 curse"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "56": {
+        "add": [
+            "+2 element"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "57": {
+        "add": [
+            "+2 muddle"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "58": {
+        "add": [
+            "+2 regenerate"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "59": {
+        "add": [
+            "+3 muddle"
+        ],
+        "remove": [
+            "+0"
+        ]
+    },
+    "60": {
+        "add": [
+            "+1 stun"
+        ],
+        "remove": [
+            "+1"
+        ]
+    },
+    "61": {
+        "add": [
+            "+3"
+        ],
+        "remove": [
+            "+1"
+        ]
+    },
+    "62": {
+        "add": [
+            "+2 element"
+        ],
+        "remove": [
+            "+1"
+        ]
+    },
+    "63": {
+        "add": [
+            "+3 shield"
+        ],
+        "remove": [
+            "+1",
+            "+1"
+        ]
+    },
+    "64": {
+        "add": [
+            "+2",
+            "+2"
+        ],
+        "remove": [
+            "+1",
+            "+1"
+        ]
+    }
+}

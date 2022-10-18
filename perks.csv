@@ -1,0 +1,64 @@
+add 1 -2,add 2 +2
+add 1 +0 stun
+add 1 +0 target1
+add 1 +1 aoe1
+add 1 +1 curse
+add 1 +1 element2
+add 1 +1 heal1
+add 1 +1 heal2
+add 1 +1,else 1 ignore Item Effects
+add 1 +1 immobilize
+add 1 +1 poison
+add 1 +1 shield1
+add 1 +1 wound
+add 1 +2
+add 1 +2 element
+add 1 +2 muddle
+add 1 +3
+add 1 +0 rolling disarm,add 1 rolling muddle
+add 1 +0 rolling invisible
+add 1 +0 rolling stun
+add 1 +0 rolling target1
+add 3 +0 pull1
+add 3 +0 push1
+add 3 +0 rolling muddle
+add 2 +1
+add 2 +1,else 1 ignore Scenario Effects
+add 2 +1 rolling 
+add 2 +0 rolling curse
+add 2 +0 rolling element
+add 2 +0 rolling heal1
+add 2 +0 rolling immobilize
+add 2 +0 rolling muddle
+add 2 +0 rolling pierce3
+add 2 +0 rolling poison
+add 2 +0 rolling push2
+else 1 ignore Item Effects
+else 1 ignore Scenario Effects
+remove 4 +0
+remove 1 -2
+remove 1 -2,remove 1 +1
+remove 2 -1
+remove 1 -1,add 1 +0 heal1
+remove 1 -1,add 1 +0 poison
+remove 1 -1,add 1 +1
+remove 1 -1,add 1 +1 heal2
+remove 1 -2,add 1 +0
+remove 1 +0,add 1 +1 shield
+remove 1 +0,add 1 +0 stun
+remove 1 +0,add 1 +1 element
+remove 1 +0,add 1 +1 immobilize
+remove 1 +0,add 1 +1 poison
+remove 1 +0,add 1 +1 push2
+remove 1 +0,add 1 +1 wound
+remove 1 +0,add 1 +2
+remove 1 +0,add 1 +2 curse
+remove 1 +0,add 1 +2 element
+remove 1 +0,add 1 +2 muddle
+remove 1 +0,add 1 +2 regenerate
+remove 1 +0,add 1 +3 muddle
+remove 1 +1,add 1 +1 stun
+remove 1 +1,add 1 +3
+remove 1 +1,add 1 +2 element
+remove 2 +1,add 1 +3 shield
+remove 2 +1,add 2 +2
