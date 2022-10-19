@@ -1,5 +1,6 @@
 {
     "1": {
+        "name": "add 1 -2,add 2 +2",
         "add": [
             "-2",
             "+2",
@@ -7,41 +8,49 @@
         ]
     },
     "2": {
+        "name": "add 1 +0 stun",
         "add": [
             "+0 stun"
         ]
     },
     "3": {
+        "name": "add 1 +0 target1",
         "add": [
             "+0 target1"
         ]
     },
     "4": {
+        "name": "add 1 +1 aoe1",
         "add": [
             "+1 aoe1"
         ]
     },
     "5": {
+        "name": "add 1 +1 curse",
         "add": [
             "+1 curse"
         ]
     },
     "6": {
+        "name": "add 1 +1 element2",
         "add": [
             "+1 element2"
         ]
     },
     "7": {
+        "name": "add 1 +1 heal1",
         "add": [
             "+1 heal1"
         ]
     },
     "8": {
+        "name": "add 1 +1 heal2",
         "add": [
             "+1 heal2"
         ]
     },
     "9": {
+        "name": "add 1 +1,else 1 ignore Item Effects",
         "add": [
             "+1"
         ],
@@ -50,67 +59,80 @@
         ]
     },
     "10": {
+        "name": "add 1 +1 immobilize",
         "add": [
             "+1 immobilize"
         ]
     },
     "11": {
+        "name": "add 1 +1 poison",
         "add": [
             "+1 poison"
         ]
     },
     "12": {
+        "name": "add 1 +1 shield1",
         "add": [
             "+1 shield1"
         ]
     },
     "13": {
+        "name": "add 1 +1 wound",
         "add": [
             "+1 wound"
         ]
     },
     "14": {
+        "name": "add 1 +2",
         "add": [
             "+2"
         ]
     },
     "15": {
+        "name": "add 1 +2 element",
         "add": [
             "+2 element"
         ]
     },
     "16": {
+        "name": "add 1 +2 muddle",
         "add": [
             "+2 muddle"
         ]
     },
     "17": {
+        "name": "add 1 +3",
         "add": [
             "+3"
         ]
     },
     "18": {
+        "name": "add 1 +0 rolling disarm,add 1 +0 rolling muddle",
         "add": [
             "+0 rolling disarm",
-            "rolling muddle"
+            "+0 rolling muddle"
         ]
     },
     "19": {
+        "name": "add 1 +0 rolling invisible",
         "add": [
             "+0 rolling invisible"
         ]
     },
     "20": {
+        "name": "add 1 +0 rolling stun",
         "add": [
             "+0 rolling stun"
         ]
     },
     "21": {
+        "name": "add 1 +0 rolling target1",
         "add": [
             "+0 rolling target1"
         ]
     },
     "22": {
+        "name": "add 3 +0 pull1",
         "add": [
             "+0 pull1",
             "+0 pull1",
@@ -118,6 +140,7 @@
         ]
     },
     "23": {
+        "name": "add 3 +0 push1",
         "add": [
             "+0 push1",
             "+0 push1",
@@ -125,6 +148,7 @@
         ]
     },
     "24": {
+        "name": "add 3 +0 rolling muddle",
         "add": [
             "+0 rolling muddle",
             "+0 rolling muddle",
@@ -132,12 +156,14 @@
         ]
     },
     "25": {
+        "name": "add 2 +1",
         "add": [
             "+1",
             "+1"
         ]
     },
     "26": {
+        "name": "add 2 +1,else 1 ignore Scenario Effects",
         "add": [
             "+1",
             "+1"
@@ -147,70 +173,82 @@
         ]
     },
     "27": {
+        "name": "add 2 +1 rolling",
         "add": [
             "+1 rolling",
             "+1 rolling"
         ]
     },
     "28": {
+        "name": "add 2 +0 rolling curse",
         "add": [
             "+0 rolling curse",
             "+0 rolling curse"
         ]
     },
     "29": {
+        "name": "add 2 +0 rolling element",
         "add": [
             "+0 rolling element",
             "+0 rolling element"
         ]
     },
     "30": {
+        "name": "add 2 +0 rolling heal1",
         "add": [
             "+0 rolling heal1",
             "+0 rolling heal1"
         ]
     },
     "31": {
+        "name": "add 2 +0 rolling immobilize",
         "add": [
             "+0 rolling immobilize",
             "+0 rolling immobilize"
         ]
     },
     "32": {
+        "name": "add 2 +0 rolling muddle",
         "add": [
             "+0 rolling muddle",
             "+0 rolling muddle"
         ]
     },
     "33": {
+        "name": "add 2 +0 rolling pierce3",
         "add": [
             "+0 rolling pierce3",
             "+0 rolling pierce3"
         ]
     },
     "34": {
+        "name": "add 2 +0 rolling poison",
         "add": [
             "+0 rolling poison",
             "+0 rolling poison"
         ]
     },
     "35": {
+        "name": "add 2 +0 rolling push2",
         "add": [
             "+0 rolling push2",
             "+0 rolling push2"
         ]
     },
     "36": {
+        "name": "else 1 ignore Item Effects",
         "else": [
             "ignore Item Effects"
         ]
     },
     "37": {
+        "name": "else 1 ignore Scenario Effects",
         "else": [
             "ignore Scenario Effects"
         ]
     },
     "38": {
+        "name": "remove 4 +0",
         "remove": [
             "+0",
             "+0",
@@ -219,23 +257,27 @@
         ]
     },
     "39": {
+        "name": "remove 1 -2",
         "remove": [
             "-2"
         ]
     },
     "40": {
+        "name": "remove 1 -2,remove 1 +1",
         "remove": [
             "-2",
             "+1"
         ]
     },
     "41": {
+        "name": "remove 2 -1",
         "remove": [
             "-1",
             "-1"
         ]
     },
     "42": {
+        "name": "remove 1 -1,add 1 +0 heal1",
         "add": [
             "+0 heal1"
         ],
@@ -244,6 +286,7 @@
         ]
     },
     "43": {
+        "name": "remove 1 -1,add 1 +0 poison",
         "add": [
             "+0 poison"
         ],
@@ -252,6 +295,7 @@
         ]
     },
     "44": {
+        "name": "remove 1 -1,add 1 +1",
         "add": [
             "+1"
         ],
@@ -260,6 +304,7 @@
         ]
     },
     "45": {
+        "name": "remove 1 -1,add 1 +1 heal2",
         "add": [
             "+1 heal2"
         ],
@@ -268,6 +313,7 @@
         ]
     },
     "46": {
+        "name": "remove 1 -2,add 1 +0",
         "add": [
             "+0"
         ],
@@ -276,6 +322,7 @@
         ]
     },
     "47": {
+        "name": "remove 1 +0,add 1 +1 shield",
         "add": [
             "+1 shield"
         ],
@@ -284,6 +331,7 @@
         ]
     },
     "48": {
+        "name": "remove 1 +0,add 1 +0 stun",
         "add": [
             "+0 stun"
         ],
@@ -292,6 +340,7 @@
         ]
     },
     "49": {
+        "name": "remove 1 +0,add 1 +1 element",
         "add": [
             "+1 element"
         ],
@@ -300,6 +349,7 @@
         ]
     },
     "50": {
+        "name": "remove 1 +0,add 1 +1 immobilize",
         "add": [
             "+1 immobilize"
         ],
@@ -308,6 +358,7 @@
         ]
     },
     "51": {
+        "name": "remove 1 +0,add 1 +1 poison",
         "add": [
             "+1 poison"
         ],
@@ -316,6 +367,7 @@
         ]
     },
     "52": {
+        "name": "remove 1 +0,add 1 +1 push2",
         "add": [
             "+1 push2"
         ],
@@ -324,6 +376,7 @@
         ]
     },
     "53": {
+        "name": "remove 1 +0,add 1 +1 wound",
         "add": [
             "+1 wound"
         ],
@@ -332,6 +385,7 @@
         ]
     },
     "54": {
+        "name": "remove 1 +0,add 1 +2",
         "add": [
             "+2"
         ],
@@ -340,6 +394,7 @@
         ]
     },
     "55": {
+        "name": "remove 1 +0,add 1 +2 curse",
         "add": [
             "+2 curse"
         ],
@@ -348,6 +403,7 @@
         ]
     },
     "56": {
+        "name": "remove 1 +0,add 1 +2 element",
         "add": [
             "+2 element"
         ],
@@ -356,6 +412,7 @@
         ]
     },
     "57": {
+        "name": "remove 1 +0,add 1 +2 muddle",
         "add": [
             "+2 muddle"
         ],
@@ -364,6 +421,7 @@
         ]
     },
     "58": {
+        "name": "remove 1 +0,add 1 +2 regenerate",
         "add": [
             "+2 regenerate"
         ],
@@ -372,6 +430,7 @@
         ]
     },
     "59": {
+        "name": "remove 1 +0,add 1 +3 muddle",
         "add": [
             "+3 muddle"
         ],
@@ -380,6 +439,7 @@
         ]
     },
     "60": {
+        "name": "remove 1 +1,add 1 +1 stun",
         "add": [
             "+1 stun"
         ],
@@ -388,6 +448,7 @@
         ]
     },
     "61": {
+        "name": "remove 1 +1,add 1 +3",
         "add": [
             "+3"
         ],
@@ -396,6 +457,7 @@
         ]
     },
     "62": {
+        "name": "remove 1 +1,add 1 +2 element",
         "add": [
             "+2 element"
         ],
@@ -404,6 +466,7 @@
         ]
     },
     "63": {
+        "name": "remove 2 +1,add 1 +3 shield",
         "add": [
             "+3 shield"
         ],
@@ -413,6 +476,7 @@
         ]
     },
     "64": {
+        "name": "remove 2 +1,add 2 +2",
         "add": [
             "+2",
             "+2"

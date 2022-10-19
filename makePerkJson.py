@@ -18,6 +18,7 @@ def loopFileRead(name):
 def constructPerk(line):
     splitter = line.split(",")
     # get adds
+    dicter = {"name" : line.strip()}
     adder,remover,elser = [],[],[]
     for each in splitter:
         
@@ -37,7 +38,6 @@ def constructPerk(line):
             case _:
                 pass
 
-    dicter = {}
     if len(adder) != 0:
         dicter["add"] = adder
     if len(remover) != 0:
