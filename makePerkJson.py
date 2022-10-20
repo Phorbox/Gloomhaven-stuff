@@ -19,7 +19,7 @@ def constructPerk(line):
     splitter = line.split(",")
     # get adds
     dicter = {"name" : line.strip()}
-    adder,remover,elser = [],[],[]
+    adder,remover,elser = {},{},{}
     for each in splitter:
         
         secondSplit = each.split(" ")
@@ -30,11 +30,21 @@ def constructPerk(line):
         tempy = [card] * quantity
         match switcher:
             case "add":
-                adder = adder + tempy
+                if card in adder:
+                    adder[card] = (int(adder[card]) + quantity)
+                else:
+                    adder[card] = quantity
+                
             case "remove":
-                remover = remover + tempy
+                if card in remover:
+                    remover[card] = (int(remover[card]) + quantity)
+                else:
+                    remover[card] = quantity
             case "else":
-                elser = elser + tempy
+                if card in elser:
+                    elser[card] = (int(elser[card]) + quantity)
+                else:
+                    elser[card] = quantity
             case _:
                 pass
 

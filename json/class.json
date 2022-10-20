@@ -2,1256 +2,1183 @@
     "Aesther Diviner": {
         "1": {
             "name": "add 2 +1,else 1 ignore Scenario Effects",
-            "add": [
-                "+1",
-                "+1"
-            ],
-            "else": [
-                "ignore Scenario Effects"
-            ]
+            "add": {
+                "+1": 2
+            },
+            "else": {
+                "ignore Scenario Effects": 1
+            }
         },
         "2": {
             "name": "add 2 +0 rolling curse",
-            "add": [
-                "+0 rolling curse",
-                "+0 rolling curse"
-            ]
+            "add": {
+                "+0 rolling curse": 2
+            }
         },
         "3": {
             "name": "add 2 +0 rolling heal1",
-            "add": [
-                "+0 rolling heal1",
-                "+0 rolling heal1"
-            ]
+            "add": {
+                "+0 rolling heal1": 2
+            }
         },
         "4": {
             "name": "remove 1 -2",
-            "remove": [
-                "-2"
-            ]
+            "remove": {
+                "-2": 1
+            }
         },
         "5": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "6": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "7": {
             "name": "remove 1 -1,add 1 +1 heal2",
-            "add": [
-                "+1 heal2"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1 heal2": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "8": {
             "name": "remove 1 +0,add 1 +1 shield",
-            "add": [
-                "+1 shield"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 shield": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "9": {
             "name": "remove 1 +0,add 1 +2 curse",
-            "add": [
-                "+2 curse"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 curse": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "10": {
             "name": "remove 1 +0,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "11": {
             "name": "remove 1 +0,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "12": {
             "name": "remove 1 +0,add 1 +2 regenerate",
-            "add": [
-                "+2 regenerate"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 regenerate": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "13": {
             "name": "remove 1 +0,add 1 +3 muddle",
-            "add": [
-                "+3 muddle"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+3 muddle": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "14": {
             "name": "remove 2 +1,add 1 +3 shield",
-            "add": [
-                "+3 shield"
-            ],
-            "remove": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+3 shield": 1
+            },
+            "remove": {
+                "+1": 2
+            }
         },
         "15": {
             "name": "remove 2 +1,add 1 +3 shield",
-            "add": [
-                "+3 shield"
-            ],
-            "remove": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+3 shield": 1
+            },
+            "remove": {
+                "+1": 2
+            }
         }
     },
     "Human Voidwarden": {
         "1": {
             "name": "add 1 +1 curse",
-            "add": [
-                "+1 curse"
-            ]
+            "add": {
+                "+1 curse": 1
+            }
         },
         "2": {
             "name": "add 1 +1 curse",
-            "add": [
-                "+1 curse"
-            ]
+            "add": {
+                "+1 curse": 1
+            }
         },
         "3": {
             "name": "add 1 +1 heal1",
-            "add": [
-                "+1 heal1"
-            ]
+            "add": {
+                "+1 heal1": 1
+            }
         },
         "4": {
             "name": "add 1 +1 heal1",
-            "add": [
-                "+1 heal1"
-            ]
+            "add": {
+                "+1 heal1": 1
+            }
         },
         "5": {
             "name": "add 1 +1 heal1",
-            "add": [
-                "+1 heal1"
-            ]
+            "add": {
+                "+1 heal1": 1
+            }
         },
         "6": {
             "name": "add 1 +1 poison",
-            "add": [
-                "+1 poison"
-            ]
+            "add": {
+                "+1 poison": 1
+            }
         },
         "7": {
             "name": "add 1 +3",
-            "add": [
-                "+3"
-            ]
+            "add": {
+                "+3": 1
+            }
         },
         "8": {
             "name": "remove 1 -2",
-            "remove": [
-                "-2"
-            ]
+            "remove": {
+                "-2": 1
+            }
         },
         "9": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "10": {
             "name": "remove 1 -1,add 1 +0 heal1",
-            "add": [
-                "+0 heal1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+0 heal1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "11": {
             "name": "remove 1 -1,add 1 +0 heal1",
-            "add": [
-                "+0 heal1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+0 heal1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "12": {
             "name": "remove 1 +0,add 1 +1 element",
-            "add": [
-                "+1 element"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 element": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "13": {
             "name": "remove 1 +0,add 1 +1 element",
-            "add": [
-                "+1 element"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 element": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "14": {
             "name": "remove 1 +0,add 1 +1 element",
-            "add": [
-                "+1 element"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 element": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "15": {
             "name": "remove 1 +0,add 1 +1 element",
-            "add": [
-                "+1 element"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 element": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         }
     },
     "Savvas Cragheart": {
         "1": {
             "name": "add 1 -2,add 2 +2",
-            "add": [
-                "-2",
-                "+2",
-                "+2"
-            ]
+            "add": {
+                "-2": 1,
+                "+2": 2
+            }
         },
         "2": {
             "name": "add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            }
         },
         "3": {
             "name": "add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            }
         },
         "4": {
             "name": "add 1 +2 muddle",
-            "add": [
-                "+2 muddle"
-            ]
+            "add": {
+                "+2 muddle": 1
+            }
         },
         "5": {
             "name": "add 1 +2 muddle",
-            "add": [
-                "+2 muddle"
-            ]
+            "add": {
+                "+2 muddle": 1
+            }
         },
         "6": {
             "name": "add 2 +0 rolling element",
-            "add": [
-                "+0 rolling element",
-                "+0 rolling element"
-            ]
+            "add": {
+                "+0 rolling element": 2
+            }
         },
         "7": {
             "name": "add 2 +0 rolling element",
-            "add": [
-                "+0 rolling element",
-                "+0 rolling element"
-            ]
+            "add": {
+                "+0 rolling element": 2
+            }
         },
         "8": {
             "name": "add 2 +0 rolling element",
-            "add": [
-                "+0 rolling element",
-                "+0 rolling element"
-            ]
+            "add": {
+                "+0 rolling element": 2
+            }
         },
         "9": {
             "name": "add 2 +0 rolling push2",
-            "add": [
-                "+0 rolling push2",
-                "+0 rolling push2"
-            ]
+            "add": {
+                "+0 rolling push2": 2
+            }
         },
         "10": {
             "name": "else 1 ignore Item Effects",
-            "else": [
-                "ignore Item Effects"
-            ]
+            "else": {
+                "ignore Item Effects": 1
+            }
         },
         "11": {
             "name": "else 1 ignore Scenario Effects",
-            "else": [
-                "ignore Scenario Effects"
-            ]
+            "else": {
+                "ignore Scenario Effects": 1
+            }
         },
         "12": {
             "name": "remove 4 +0",
-            "remove": [
-                "+0",
-                "+0",
-                "+0",
-                "+0"
-            ]
+            "remove": {
+                "+0": 4
+            }
         },
         "13": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "14": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "15": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         }
     },
     "Quatryl Demolitionist": {
         "1": {
             "name": "add 1 +1 aoe1",
-            "add": [
-                "+1 aoe1"
-            ]
+            "add": {
+                "+1 aoe1": 1
+            }
         },
         "2": {
             "name": "add 1 +1 aoe1",
-            "add": [
-                "+1 aoe1"
-            ]
+            "add": {
+                "+1 aoe1": 1
+            }
         },
         "3": {
             "name": "add 1 +2",
-            "add": [
-                "+2"
-            ]
+            "add": {
+                "+2": 1
+            }
         },
         "4": {
             "name": "add 1 +2",
-            "add": [
-                "+2"
-            ]
+            "add": {
+                "+2": 1
+            }
         },
         "5": {
             "name": "remove 4 +0",
-            "remove": [
-                "+0",
-                "+0",
-                "+0",
-                "+0"
-            ]
+            "remove": {
+                "+0": 4
+            }
         },
         "6": {
             "name": "remove 1 -2,remove 1 +1",
-            "remove": [
-                "-2",
-                "+1"
-            ]
+            "remove": {
+                "-2": 1,
+                "+1": 1
+            }
         },
         "7": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "8": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "9": {
             "name": "remove 1 -1,add 1 +0 poison",
-            "add": [
-                "+0 poison"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+0 poison": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "10": {
             "name": "remove 1 +0,add 1 +2 muddle",
-            "add": [
-                "+2 muddle"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 muddle": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "11": {
             "name": "remove 1 +0,add 1 +2 muddle",
-            "add": [
-                "+2 muddle"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 muddle": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "12": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "13": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "14": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "15": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         }
     },
     "Inox Brute": {
         "1": {
             "name": "add 1 +1,else 1 ignore Item Effects",
-            "add": [
-                "+1"
-            ],
-            "else": [
-                "ignore Item Effects"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "else": {
+                "ignore Item Effects": 1
+            }
         },
         "2": {
             "name": "add 1 +1 shield1",
-            "add": [
-                "+1 shield1"
-            ]
+            "add": {
+                "+1 shield1": 1
+            }
         },
         "3": {
             "name": "add 1 +3",
-            "add": [
-                "+3"
-            ]
+            "add": {
+                "+3": 1
+            }
         },
         "4": {
             "name": "add 1 +0 rolling disarm,add 1 +0 rolling muddle",
-            "add": [
-                "+0 rolling disarm",
-                "+0 rolling muddle"
-            ]
+            "add": {
+                "+0 rolling disarm": 1,
+                "+0 rolling muddle": 1
+            }
         },
         "5": {
             "name": "add 1 +0 rolling stun",
-            "add": [
-                "+0 rolling stun"
-            ]
+            "add": {
+                "+0 rolling stun": 1
+            }
         },
         "6": {
             "name": "add 1 +0 rolling stun",
-            "add": [
-                "+0 rolling stun"
-            ]
+            "add": {
+                "+0 rolling stun": 1
+            }
         },
         "7": {
             "name": "add 1 +0 rolling target1",
-            "add": [
-                "+0 rolling target1"
-            ]
+            "add": {
+                "+0 rolling target1": 1
+            }
         },
         "8": {
             "name": "add 1 +0 rolling target1",
-            "add": [
-                "+0 rolling target1"
-            ]
+            "add": {
+                "+0 rolling target1": 1
+            }
         },
         "9": {
             "name": "add 3 +0 push1",
-            "add": [
-                "+0 push1",
-                "+0 push1",
-                "+0 push1"
-            ]
+            "add": {
+                "+0 push1": 3
+            }
         },
         "10": {
             "name": "add 3 +0 push1",
-            "add": [
-                "+0 push1",
-                "+0 push1",
-                "+0 push1"
-            ]
+            "add": {
+                "+0 push1": 3
+            }
         },
         "11": {
             "name": "add 2 +1",
-            "add": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+1": 2
+            }
         },
         "12": {
             "name": "add 2 +1",
-            "add": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+1": 2
+            }
         },
         "13": {
             "name": "add 2 +0 rolling pierce3",
-            "add": [
-                "+0 rolling pierce3",
-                "+0 rolling pierce3"
-            ]
+            "add": {
+                "+0 rolling pierce3": 2
+            }
         },
         "14": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "15": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         }
     },
     "Vermling Mindthief": {
         "1": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "2": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "3": {
             "name": "add 1 +0 rolling disarm,add 1 +0 rolling muddle",
-            "add": [
-                "+0 rolling disarm",
-                "+0 rolling muddle"
-            ]
+            "add": {
+                "+0 rolling disarm": 1,
+                "+0 rolling muddle": 1
+            }
         },
         "4": {
             "name": "add 1 +0 rolling stun",
-            "add": [
-                "+0 rolling stun"
-            ]
+            "add": {
+                "+0 rolling stun": 1
+            }
         },
         "5": {
             "name": "add 3 +0 pull1",
-            "add": [
-                "+0 pull1",
-                "+0 pull1",
-                "+0 pull1"
-            ]
+            "add": {
+                "+0 pull1": 3
+            }
         },
         "6": {
             "name": "add 3 +0 rolling muddle",
-            "add": [
-                "+0 rolling muddle",
-                "+0 rolling muddle",
-                "+0 rolling muddle"
-            ]
+            "add": {
+                "+0 rolling muddle": 3
+            }
         },
         "7": {
             "name": "add 2 +1 rolling",
-            "add": [
-                "+1 rolling",
-                "+1 rolling"
-            ]
+            "add": {
+                "+1 rolling": 2
+            }
         },
         "8": {
             "name": "add 2 +1 rolling",
-            "add": [
-                "+1 rolling",
-                "+1 rolling"
-            ]
+            "add": {
+                "+1 rolling": 2
+            }
         },
         "9": {
             "name": "add 2 +0 rolling immobilize",
-            "add": [
-                "+0 rolling immobilize",
-                "+0 rolling immobilize"
-            ]
+            "add": {
+                "+0 rolling immobilize": 2
+            }
         },
         "10": {
             "name": "else 1 ignore Scenario Effects",
-            "else": [
-                "ignore Scenario Effects"
-            ]
+            "else": {
+                "ignore Scenario Effects": 1
+            }
         },
         "11": {
             "name": "remove 4 +0",
-            "remove": [
-                "+0",
-                "+0",
-                "+0",
-                "+0"
-            ]
+            "remove": {
+                "+0": 4
+            }
         },
         "12": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "13": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "14": {
             "name": "remove 1 -2,add 1 +0",
-            "add": [
-                "+0"
-            ],
-            "remove": [
-                "-2"
-            ]
+            "add": {
+                "+0": 1
+            },
+            "remove": {
+                "-2": 1
+            }
         },
         "15": {
             "name": "remove 2 +1,add 2 +2",
-            "add": [
-                "+2",
-                "+2"
-            ],
-            "remove": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+2": 2
+            },
+            "remove": {
+                "+1": 2
+            }
         }
     },
     "Human Scoundrel": {
         "1": {
             "name": "add 1 +0 rolling invisible",
-            "add": [
-                "+0 rolling invisible"
-            ]
+            "add": {
+                "+0 rolling invisible": 1
+            }
         },
         "2": {
             "name": "add 2 +1 rolling",
-            "add": [
-                "+1 rolling",
-                "+1 rolling"
-            ]
+            "add": {
+                "+1 rolling": 2
+            }
         },
         "3": {
             "name": "add 2 +1 rolling",
-            "add": [
-                "+1 rolling",
-                "+1 rolling"
-            ]
+            "add": {
+                "+1 rolling": 2
+            }
         },
         "4": {
             "name": "add 2 +0 rolling muddle",
-            "add": [
-                "+0 rolling muddle",
-                "+0 rolling muddle"
-            ]
+            "add": {
+                "+0 rolling muddle": 2
+            }
         },
         "5": {
             "name": "add 2 +0 rolling pierce3",
-            "add": [
-                "+0 rolling pierce3",
-                "+0 rolling pierce3"
-            ]
+            "add": {
+                "+0 rolling pierce3": 2
+            }
         },
         "6": {
             "name": "add 2 +0 rolling poison",
-            "add": [
-                "+0 rolling poison",
-                "+0 rolling poison"
-            ]
+            "add": {
+                "+0 rolling poison": 2
+            }
         },
         "7": {
             "name": "add 2 +0 rolling poison",
-            "add": [
-                "+0 rolling poison",
-                "+0 rolling poison"
-            ]
+            "add": {
+                "+0 rolling poison": 2
+            }
         },
         "8": {
             "name": "else 1 ignore Scenario Effects",
-            "else": [
-                "ignore Scenario Effects"
-            ]
+            "else": {
+                "ignore Scenario Effects": 1
+            }
         },
         "9": {
             "name": "remove 4 +0",
-            "remove": [
-                "+0",
-                "+0",
-                "+0",
-                "+0"
-            ]
+            "remove": {
+                "+0": 4
+            }
         },
         "10": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "11": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "12": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "13": {
             "name": "remove 1 -2,add 1 +0",
-            "add": [
-                "+0"
-            ],
-            "remove": [
-                "-2"
-            ]
+            "add": {
+                "+0": 1
+            },
+            "remove": {
+                "-2": 1
+            }
         },
         "14": {
             "name": "remove 1 +0,add 1 +2",
-            "add": [
-                "+2"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "15": {
             "name": "remove 1 +0,add 1 +2",
-            "add": [
-                "+2"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         }
     },
     "Orchid Spellweaver": {
         "1": {
             "name": "add 1 +0 stun",
-            "add": [
-                "+0 stun"
-            ]
+            "add": {
+                "+0 stun": 1
+            }
         },
         "2": {
             "name": "add 1 +1 curse",
-            "add": [
-                "+1 curse"
-            ]
+            "add": {
+                "+1 curse": 1
+            }
         },
         "3": {
             "name": "add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            }
         },
         "4": {
             "name": "add 1 +1 wound",
-            "add": [
-                "+1 wound"
-            ]
+            "add": {
+                "+1 wound": 1
+            }
         },
         "5": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "6": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "7": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "8": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "9": {
             "name": "add 2 +1",
-            "add": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+1": 2
+            }
         },
         "10": {
             "name": "add 2 +1",
-            "add": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+1": 2
+            }
         },
         "11": {
             "name": "add 2 +0 rolling element",
-            "add": [
-                "+0 rolling element",
-                "+0 rolling element"
-            ]
+            "add": {
+                "+0 rolling element": 2
+            }
         },
         "12": {
             "name": "add 2 +0 rolling element",
-            "add": [
-                "+0 rolling element",
-                "+0 rolling element"
-            ]
+            "add": {
+                "+0 rolling element": 2
+            }
         },
         "13": {
             "name": "remove 4 +0",
-            "remove": [
-                "+0",
-                "+0",
-                "+0",
-                "+0"
-            ]
+            "remove": {
+                "+0": 4
+            }
         },
         "14": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "15": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         }
     },
     "Quatryl Tinkerer": {
         "1": {
             "name": "add 1 +0 target1",
-            "add": [
-                "+0 target1"
-            ]
+            "add": {
+                "+0 target1": 1
+            }
         },
         "2": {
             "name": "add 1 +1 heal2",
-            "add": [
-                "+1 heal2"
-            ]
+            "add": {
+                "+1 heal2": 1
+            }
         },
         "3": {
             "name": "add 1 +1 heal2",
-            "add": [
-                "+1 heal2"
-            ]
+            "add": {
+                "+1 heal2": 1
+            }
         },
         "4": {
             "name": "add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            }
         },
         "5": {
             "name": "add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            }
         },
         "6": {
             "name": "add 1 +1 wound",
-            "add": [
-                "+1 wound"
-            ]
+            "add": {
+                "+1 wound": 1
+            }
         },
         "7": {
             "name": "add 1 +1 wound",
-            "add": [
-                "+1 wound"
-            ]
+            "add": {
+                "+1 wound": 1
+            }
         },
         "8": {
             "name": "add 1 +3",
-            "add": [
-                "+3"
-            ]
+            "add": {
+                "+3": 1
+            }
         },
         "9": {
             "name": "add 3 +0 rolling muddle",
-            "add": [
-                "+0 rolling muddle",
-                "+0 rolling muddle",
-                "+0 rolling muddle"
-            ]
+            "add": {
+                "+0 rolling muddle": 3
+            }
         },
         "10": {
             "name": "add 2 +1",
-            "add": [
-                "+1",
-                "+1"
-            ]
+            "add": {
+                "+1": 2
+            }
         },
         "11": {
             "name": "add 2 +0 rolling element",
-            "add": [
-                "+0 rolling element",
-                "+0 rolling element"
-            ]
+            "add": {
+                "+0 rolling element": 2
+            }
         },
         "12": {
             "name": "else 1 ignore Scenario Effects",
-            "else": [
-                "ignore Scenario Effects"
-            ]
+            "else": {
+                "ignore Scenario Effects": 1
+            }
         },
         "13": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "14": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "15": {
             "name": "remove 1 -2,add 1 +0",
-            "add": [
-                "+0"
-            ],
-            "remove": [
-                "-2"
-            ]
+            "add": {
+                "+0": 1
+            },
+            "remove": {
+                "-2": 1
+            }
         }
     },
     "Valrath Red Guard": {
         "1": {
             "name": "add 1 +1 element2",
-            "add": [
-                "+1 element2"
-            ]
+            "add": {
+                "+1 element2": 1
+            }
         },
         "2": {
             "name": "add 1 +1 element2",
-            "add": [
-                "+1 element2"
-            ]
+            "add": {
+                "+1 element2": 1
+            }
         },
         "3": {
             "name": "add 1 +1 shield1",
-            "add": [
-                "+1 shield1"
-            ]
+            "add": {
+                "+1 shield1": 1
+            }
         },
         "4": {
             "name": "add 1 +1 shield1",
-            "add": [
-                "+1 shield1"
-            ]
+            "add": {
+                "+1 shield1": 1
+            }
         },
         "5": {
             "name": "remove 4 +0",
-            "remove": [
-                "+0",
-                "+0",
-                "+0",
-                "+0"
-            ]
+            "remove": {
+                "+0": 4
+            }
         },
         "6": {
             "name": "remove 1 -2,remove 1 +1",
-            "remove": [
-                "-2",
-                "+1"
-            ]
+            "remove": {
+                "-2": 1,
+                "+1": 1
+            }
         },
         "7": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "8": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "9": {
             "name": "remove 1 -1,add 1 +1",
-            "add": [
-                "+1"
-            ],
-            "remove": [
-                "-1"
-            ]
+            "add": {
+                "+1": 1
+            },
+            "remove": {
+                "-1": 1
+            }
         },
         "10": {
             "name": "remove 1 +0,add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "11": {
             "name": "remove 1 +0,add 1 +1 wound",
-            "add": [
-                "+1 wound"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 wound": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "12": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "13": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "14": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "15": {
             "name": "remove 1 +1,add 1 +2 element",
-            "add": [
-                "+2 element"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+2 element": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         }
     },
     "Inox Hatchet": {
         "1": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "2": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "3": {
             "name": "add 1 +2 element",
-            "add": [
-                "+2 element"
-            ]
+            "add": {
+                "+2 element": 1
+            }
         },
         "4": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "5": {
             "name": "remove 2 -1",
-            "remove": [
-                "-1",
-                "-1"
-            ]
+            "remove": {
+                "-1": 2
+            }
         },
         "6": {
             "name": "remove 1 +0,add 1 +0 stun",
-            "add": [
-                "+0 stun"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+0 stun": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "7": {
             "name": "remove 1 +0,add 1 +1 immobilize",
-            "add": [
-                "+1 immobilize"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 immobilize": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "8": {
             "name": "remove 1 +0,add 1 +1 poison",
-            "add": [
-                "+1 poison"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 poison": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "9": {
             "name": "remove 1 +0,add 1 +1 push2",
-            "add": [
-                "+1 push2"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 push2": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "10": {
             "name": "remove 1 +0,add 1 +1 wound",
-            "add": [
-                "+1 wound"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+1 wound": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "11": {
             "name": "remove 1 +0,add 1 +2 muddle",
-            "add": [
-                "+2 muddle"
-            ],
-            "remove": [
-                "+0"
-            ]
+            "add": {
+                "+2 muddle": 1
+            },
+            "remove": {
+                "+0": 1
+            }
         },
         "12": {
             "name": "remove 1 +1,add 1 +1 stun",
-            "add": [
-                "+1 stun"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+1 stun": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "13": {
             "name": "remove 1 +1,add 1 +3",
-            "add": [
-                "+3"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+3": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "14": {
             "name": "remove 1 +1,add 1 +3",
-            "add": [
-                "+3"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+3": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         },
         "15": {
             "name": "remove 1 +1,add 1 +3",
-            "add": [
-                "+3"
-            ],
-            "remove": [
-                "+1"
-            ]
+            "add": {
+                "+3": 1
+            },
+            "remove": {
+                "+1": 1
+            }
         }
     }
 }

@@ -101,10 +101,15 @@ def loadClasses(classJson):
     classFile.close()
     return classDict
 
-# def loopClasses(bigDict):
-#     for anyClass, perkList in bigDict.items():
-#         for perkEffect in perkList:
-#             currentDeck = makeDeck(each)
+def applyPerk(deck,perk):
+    pass
+
+
+def loopClasses(bigDict):
+    for anyClass, perkList in bigDict.items():
+        for perkEffect in perkList:
+            # currentDeck = makeDeck(each)
+            pass
 
 
 print(f"---Test  :\tBase Deck\t---")
