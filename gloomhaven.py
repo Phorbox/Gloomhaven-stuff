@@ -1,15 +1,28 @@
-import random,re,time
-nTests = 6
-damage = 3
-baseDeckName = "csv\\baseDeck"
+import random,re,time,math,json
+SCENARIOLENGTH = 20
+BASEDECKPATH = "json\\baseDeck.json"
+# testnumber is set to the amount of tests my laptop can run in one second
+TESTNUMBER = 12500
+CLASSPATH = f"json\\class.json"
+
 
 def makeBaseDeck():
-    deckFile = open(baseDeckName,"r")
-    decker = []
-    for each in deckFile:
-        decker.append(each[:-1])
+    deckFile = open(BASEDECKPATH)
+    decktionary = json.load(deckFile)
+    decker = makeDeck(decktionary)
     deckFile.close()
     return decker
+
+def makeDeck(decktionary):
+    decker = []
+    for typer in decktionary:
+        for i in range(0,decktionary[f"{typer}"]):
+            decker.append(typer)
+    # print(f"deck Size : {len(decker)} contents:{decker}")
+    return decker
+
+
+baseDeck = makeBaseDeck()
 
 def rollAttack(Damage, deck,discard):
     card = drawCard(deck,discard)
@@ -52,15 +65,15 @@ def sumArray(arry):
 def avgArray(arry):
     return round(sumArray(arry) / len(arry),2)
 
-def testDeck(deck,rolls,damage):
+def runScenario(deck,nAttacks,baseDamage):
     # print(f"deck:    {testDecker}")
-    damager = []
-    discard = []
-    for i in range(0,rolls):
-        damager.append(rollAttack(damage,deck,discard))
-        shuffle(deck, discard)
+    damageRolls = 0
+    discardPile = []
+    for i in range(0,nAttacks):
+        damageRolls+=(rollAttack(baseDamage,deck,discardPile))
+        shuffle(deck, discardPile)
     # print(f"discard: {len(discard)}")
-    return avgArray(damager)
+    return damageRolls / nAttacks
 
 def shuffle(deck, discard):
     if isShuffle(discard):
@@ -74,15 +87,33 @@ def isShuffle(discard):
 def isRolling(card):
     return  (re.search(".*rolling",card) != None)
 
+def runTest(nTests):
+    testDecker = baseDeck
+    results = 0
+    for i in range(0,nTests):
+       results+= runScenario(testDecker,SCENARIOLENGTH,3)
+
+    return results / nTests
+
+def loadClasses(classJson):
+    classFile = open(classJson)
+    classDict = json.load(classFile)
+    classFile.close()
+    return classDict
+
+# def loopClasses(bigDict):
+#     for anyClass, perkList in bigDict.items():
+#         for perkEffect in perkList:
+#             currentDeck = makeDeck(each)
 
 
-baseDeck = makeBaseDeck()
-testDecker = baseDeck
-tests = 10
-for i in range(0,nTests):
-    start_time = time.time()
-    avger = testDeck(testDecker,tests,3)
-    print(f"---Average:\t{avger}\t---")
-    print(f"---Time:\t{round((time.time() - start_time),3)}s\t---")
-    tests *= 10
+print(f"---Test  :\tBase Deck\t---")
+start_time = time.time()
+avger = round(runTest(TESTNUMBER),2)
+print(f"---Average:\t{avger}\t---")
+print(f"---Time   :\t{round((time.time() - start_time),3)}s\t---\n")
+
+# classDict = loadClasses(CLASSPATH)
+# loopClasses(classDict)
+
 

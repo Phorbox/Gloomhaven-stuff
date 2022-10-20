@@ -58,6 +58,7 @@ def writeJson(name,dict):
     perkyFile.write(dict)
     perkyFile.close()
 
+
 jsoner = loopFileRead(csvFileName)
 jsoner = json.dumps(jsoner,indent=4)
 # print(jsoner)

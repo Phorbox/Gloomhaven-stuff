@@ -22,11 +22,14 @@ def loopFileRead(name):
     return bigDict
 
 def constructClass(splitRow,perkDict):
-    perker = []
+    perker = {}
+    p = 1
     for each in range(1,len(splitRow)):
+
         if splitRow[each] != "":
             for i in range(0,int(splitRow[each])):
-                perker.append( perkDict[f"{each}"])
+                perker[p] = ( perkDict[f"{each}"])
+                p+=1
     return perker
 
 def writeJson(name,dict):
