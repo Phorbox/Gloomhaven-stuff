@@ -9,17 +9,17 @@ jsonFileName = f"json\\class.json"
 
 
 def loopFileRead(name):
-    classyFile = open(name,"r")
-    bigDict = {}
+    classFile = open(name,"r")
+    allClasses = {}
     perksFile = open(perksJson)
     perkDict = json.load(perksFile)
-    for each in classyFile:
+    for each in classFile:
         each = each.strip()
         row = each.split(",")
-        bigDict[row[0]] = constructClass(row,perkDict)
-    classyFile.close()
+        allClasses[row[0]] = constructClass(row,perkDict)
+    classFile.close()
     perksFile.close()
-    return bigDict
+    return allClasses
 
 def constructClass(splitRow,perkDict):
     perker = {}

@@ -1,9 +1,9 @@
-import random,re,time,math,json
+import random,re,time,json
 SCENARIOLENGTH = 20
 BASEDECKPATH = "json\\baseDeck.json"
 # testnumber is set to the amount of tests my laptop can run in one second
-TESTNUMBER = 12500
-CLASSPATH = f"json\\class.json"
+TESTNUMBER = 100
+CLASSPATH = f"json\\class2.json"
 
 
 def makeBaseDeck():

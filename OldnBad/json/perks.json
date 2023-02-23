@@ -1,0 +1,464 @@
+{
+  "1": {
+    "name": "add 1 -2,add 2 +2",
+    "add": {
+      "-2": 1,
+      "+2": 2
+    }
+  },
+  "2": {
+    "name": "add 1 +0 stun",
+    "add": {
+      "+0 stun": 1
+    }
+  },
+  "3": {
+    "name": "add 1 +0 target1",
+    "add": {
+      "+0 target1": 1
+    }
+  },
+  "4": {
+    "name": "add 1 +1 aoe1",
+    "add": {
+      "+1 aoe1": 1
+    }
+  },
+  "5": {
+    "name": "add 1 +1 curse",
+    "add": {
+      "+1 curse": 1
+    }
+  },
+  "6": {
+    "name": "add 1 +1 element2",
+    "add": {
+      "+1 element2": 1
+    }
+  },
+  "7": {
+    "name": "add 1 +1 heal1",
+    "add": {
+      "+1 heal1": 1
+    }
+  },
+  "8": {
+    "name": "add 1 +1 heal2",
+    "add": {
+      "+1 heal2": 1
+    }
+  },
+  "9": {
+    "name": "add 1 +1,else 1 ignore Item Effects",
+    "add": {
+      "+1": 1
+    },
+    "else": {
+      "ignore Item Effects": 1
+    }
+  },
+  "10": {
+    "name": "add 1 +1 immobilize",
+    "add": {
+      "+1 immobilize": 1
+    }
+  },
+  "11": {
+    "name": "add 1 +1 poison",
+    "add": {
+      "+1 poison": 1
+    }
+  },
+  "12": {
+    "name": "add 1 +1 shield1",
+    "add": {
+      "+1 shield1": 1
+    }
+  },
+  "13": {
+    "name": "add 1 +1 wound",
+    "add": {
+      "+1 wound": 1
+    }
+  },
+  "14": {
+    "name": "add 1 +2",
+    "add": {
+      "+2": 1
+    }
+  },
+  "15": {
+    "name": "add 1 +2 element",
+    "add": {
+      "+2 element": 1
+    }
+  },
+  "16": {
+    "name": "add 1 +2 muddle",
+    "add": {
+      "+2 muddle": 1
+    }
+  },
+  "17": {
+    "name": "add 1 +3",
+    "add": {
+      "+3": 1
+    }
+  },
+  "18": {
+    "name": "add 1 +0 rolling disarm,add 1 +0 rolling muddle",
+    "add": {
+      "+0 rolling disarm": 1,
+      "+0 rolling muddle": 1
+    }
+  },
+  "19": {
+    "name": "add 1 +0 rolling invisible",
+    "add": {
+      "+0 rolling invisible": 1
+    }
+  },
+  "20": {
+    "name": "add 1 +0 rolling stun",
+    "add": {
+      "+0 rolling stun": 1
+    }
+  },
+  "21": {
+    "name": "add 1 +0 rolling target1",
+    "add": {
+      "+0 rolling target1": 1
+    }
+  },
+  "22": {
+    "name": "add 3 +0 pull1",
+    "add": {
+      "+0 pull1": 3
+    }
+  },
+  "23": {
+    "name": "add 3 +0 push1",
+    "add": {
+      "+0 push1": 3
+    }
+  },
+  "24": {
+    "name": "add 3 +0 rolling muddle",
+    "add": {
+      "+0 rolling muddle": 3
+    }
+  },
+  "25": {
+    "name": "add 2 +1",
+    "add": {
+      "+1": 2
+    }
+  },
+  "26": {
+    "name": "add 2 +1,else 1 ignore Scenario Effects",
+    "add": {
+      "+1": 2
+    },
+    "else": {
+      "ignore Scenario Effects": 1
+    }
+  },
+  "27": {
+    "name": "add 2 +1 rolling",
+    "add": {
+      "+1 rolling": 2
+    }
+  },
+  "28": {
+    "name": "add 2 +0 rolling curse",
+    "add": {
+      "+0 rolling curse": 2
+    }
+  },
+  "29": {
+    "name": "add 2 +0 rolling element",
+    "add": {
+      "+0 rolling element": 2
+    }
+  },
+  "30": {
+    "name": "add 2 +0 rolling heal1",
+    "add": {
+      "+0 rolling heal1": 2
+    }
+  },
+  "31": {
+    "name": "add 2 +0 rolling immobilize",
+    "add": {
+      "+0 rolling immobilize": 2
+    }
+  },
+  "32": {
+    "name": "add 2 +0 rolling muddle",
+    "add": {
+      "+0 rolling muddle": 2
+    }
+  },
+  "33": {
+    "name": "add 2 +0 rolling pierce3",
+    "add": {
+      "+0 rolling pierce3": 2
+    }
+  },
+  "34": {
+    "name": "add 2 +0 rolling poison",
+    "add": {
+      "+0 rolling poison": 2
+    }
+  },
+  "35": {
+    "name": "add 2 +0 rolling push2",
+    "add": {
+      "+0 rolling push2": 2
+    }
+  },
+  "36": {
+    "name": "else 1 ignore Item Effects",
+    "else": {
+      "ignore Item Effects": 1
+    }
+  },
+  "37": {
+    "name": "else 1 ignore Scenario Effects",
+    "else": {
+      "ignore Scenario Effects": 1
+    }
+  },
+  "38": {
+    "name": "remove 4 +0",
+    "remove": {
+      "+0": 4
+    }
+  },
+  "39": {
+    "name": "remove 1 -2",
+    "remove": {
+      "-2": 1
+    }
+  },
+  "40": {
+    "name": "remove 1 -2,remove 1 +1",
+    "remove": {
+      "-2": 1,
+      "+1": 1
+    }
+  },
+  "41": {
+    "name": "remove 2 -1",
+    "remove": {
+      "-1": 2
+    }
+  },
+  "42": {
+    "name": "remove 1 -1,add 1 +0 heal1",
+    "add": {
+      "+0 heal1": 1
+    },
+    "remove": {
+      "-1": 1
+    }
+  },
+  "43": {
+    "name": "remove 1 -1,add 1 +0 poison",
+    "add": {
+      "+0 poison": 1
+    },
+    "remove": {
+      "-1": 1
+    }
+  },
+  "44": {
+    "name": "remove 1 -1,add 1 +1",
+    "add": {
+      "+1": 1
+    },
+    "remove": {
+      "-1": 1
+    }
+  },
+  "45": {
+    "name": "remove 1 -1,add 1 +1 heal2",
+    "add": {
+      "+1 heal2": 1
+    },
+    "remove": {
+      "-1": 1
+    }
+  },
+  "46": {
+    "name": "remove 1 -2,add 1 +0",
+    "add": {
+      "+0": 1
+    },
+    "remove": {
+      "-2": 1
+    }
+  },
+  "47": {
+    "name": "remove 1 +0,add 1 +1 shield",
+    "add": {
+      "+1 shield": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "48": {
+    "name": "remove 1 +0,add 1 +0 stun",
+    "add": {
+      "+0 stun": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "49": {
+    "name": "remove 1 +0,add 1 +1 element",
+    "add": {
+      "+1 element": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "50": {
+    "name": "remove 1 +0,add 1 +1 immobilize",
+    "add": {
+      "+1 immobilize": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "51": {
+    "name": "remove 1 +0,add 1 +1 poison",
+    "add": {
+      "+1 poison": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "52": {
+    "name": "remove 1 +0,add 1 +1 push2",
+    "add": {
+      "+1 push2": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "53": {
+    "name": "remove 1 +0,add 1 +1 wound",
+    "add": {
+      "+1 wound": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "54": {
+    "name": "remove 1 +0,add 1 +2",
+    "add": {
+      "+2": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "55": {
+    "name": "remove 1 +0,add 1 +2 curse",
+    "add": {
+      "+2 curse": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "56": {
+    "name": "remove 1 +0,add 1 +2 element",
+    "add": {
+      "+2 element": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "57": {
+    "name": "remove 1 +0,add 1 +2 muddle",
+    "add": {
+      "+2 muddle": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "58": {
+    "name": "remove 1 +0,add 1 +2 regenerate",
+    "add": {
+      "+2 regenerate": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "59": {
+    "name": "remove 1 +0,add 1 +3 muddle",
+    "add": {
+      "+3 muddle": 1
+    },
+    "remove": {
+      "+0": 1
+    }
+  },
+  "60": {
+    "name": "remove 1 +1,add 1 +1 stun",
+    "add": {
+      "+1 stun": 1
+    },
+    "remove": {
+      "+1": 1
+    }
+  },
+  "61": {
+    "name": "remove 1 +1,add 1 +3",
+    "add": {
+      "+3": 1
+    },
+    "remove": {
+      "+1": 1
+    }
+  },
+  "62": {
+    "name": "remove 1 +1,add 1 +2 element",
+    "add": {
+      "+2 element": 1
+    },
+    "remove": {
+      "+1": 1
+    }
+  },
+  "63": {
+    "name": "remove 2 +1,add 1 +3 shield",
+    "add": {
+      "+3 shield": 1
+    },
+    "remove": {
+      "+1": 2
+    }
+  },
+  "64": {
+    "name": "remove 2 +1,add 2 +2",
+    "add": {
+      "+2": 2
+    },
+    "remove": {
+      "+1": 2
+    }
+  }
+}

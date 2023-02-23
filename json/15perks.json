@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Concentric Circles",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 9,
+      "+0": 7,
+      "-1": 0,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+0 rolling element": 4,
+      "+0 rolling heal1": 6,
+      "+0 rolling poison": 2,
+      "+0 rolling wound": 2
+    }
+  },
+  {
+    "name": "Angry Face",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 11,
+      "+0": 0,
+      "-1": 1,
+      "-2": 1,
+      "*0 shuffle": 1,
+      "+0 stun": 1,
+      "+1 immobilize": 1,
+      "+1 poison": 1,
+      "+1 wound": 1,
+      "+2 muddle": 1,
+      "+0 rolling target1": 2,
+      "+1 rolling": 4
+    }
+  },
+  {
+    "name": "Three Spears",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 6,
+      "+0": 0,
+      "-1": 5,
+      "-2": -1,
+      "*0 shuffle": 1,
+      "+0 rolling stun": 1,
+      "+0 rolling target1": 1,
+      "+0 rolling muddle": 3,
+      "+1 rolling": 4,
+      "+0 rolling pierce3": 2,
+      "+0 refresh": 3
+    }
+  },
+  {
+    "name": "Music Note",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 1,
+      "+0": 0,
+      "-1": 0,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+0 rolling curse": 4,
+      "+1 immobilize": 1,
+      "+1 wound": 1,
+      "+2 curse": 1,
+      "+3 muddle": 1,
+      "+4": 2,
+      "+1 disarm": 1,
+      "+2 poison": 1,
+      "+0 stun": 1,
+      "+1 rolling": 3
+    }
+  },
+  {
+    "name": "Cthulu",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 10,
+      "+0": 5,
+      "-1": 3,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+0 rolling stun": 2,
+      "+0 rolling curse": 2,
+      "+0 rolling immobilize": 2,
+      "+1 element": 3,
+      "+0 rolling poison": 3
+    }
+  },
+  {
+    "name": "Aesther Diviner",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 3,
+      "+0": 0,
+      "-1": 0,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+0 rolling curse": 2,
+      "+0 rolling heal1": 2,
+      "+1 heal2": 1,
+      "+1 shield": 1,
+      "+2 curse": 1,
+      "+2 element": 2,
+      "+2 regenerate": 1,
+      "+3 muddle": 1,
+      "+3 shield": 2
+    }
+  },
+  {
+    "name": "Human Voidwarden",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 5,
+      "+0": 2,
+      "-1": 1,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+1 curse": 2,
+      "+1 heal1": 3,
+      "+1 poison": 1,
+      "+3": 1,
+      "+0 heal1": 2,
+      "+1 element": 4
+    }
+  },
+  {
+    "name": "Savvas Cragheart",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 8,
+      "+0": 2,
+      "-1": 2,
+      "-2": 2,
+      "*0 shuffle": 1,
+      "+1 immobilize": 2,
+      "+2 muddle": 2,
+      "+0 rolling element": 6,
+      "+0 rolling push2": 2
+    }
+  },
+  {
+    "name": "Quatryl Demolitionist",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 0,
+      "+0": 0,
+      "-1": 0,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+1 aoe1": 2,
+      "+0 poison": 1,
+      "+2 muddle": 2,
+      "+2 element": 4
+    }
+  },
+  {
+    "name": "Inox Brute",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 11,
+      "+0": 6,
+      "-1": 2,
+      "-2": 1,
+      "*0 shuffle": 1,
+      "+1 shield1": 1,
+      "+3": 1,
+      "+0 rolling disarm": 1,
+      "+0 rolling muddle": 1,
+      "+0 rolling stun": 2,
+      "+0 rolling target1": 2,
+      "+0 push1": 6,
+      "+0 rolling pierce3": 2
+    }
+  },
+  {
+    "name": "Vermling Mindthief",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 3,
+      "+0": 3,
+      "-1": 1,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+2 element": 2,
+      "+0 rolling disarm": 1,
+      "+0 rolling muddle": 4,
+      "+0 rolling stun": 1,
+      "+0 pull1": 3,
+      "+1 rolling": 4,
+      "+0 rolling immobilize": 2
+    }
+  },
+  {
+    "name": "Human Scoundrel",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 3,
+      "+1": 6,
+      "+0": 1,
+      "-1": 0,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+0 rolling invisible": 1,
+      "+1 rolling": 4,
+      "+0 rolling muddle": 2,
+      "+0 rolling pierce3": 2,
+      "+0 rolling poison": 4
+    }
+  },
+  {
+    "name": "Orchid Spellweaver",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 11,
+      "+0": 2,
+      "-1": 3,
+      "-2": 1,
+      "*0 shuffle": 1,
+      "+0 stun": 1,
+      "+1 curse": 1,
+      "+1 immobilize": 1,
+      "+1 wound": 1,
+      "+2 element": 4,
+      "+0 rolling element": 4
+    }
+  },
+  {
+    "name": "Quatryl Tinkerer",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 7,
+      "+0": 7,
+      "-1": 1,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+0 target1": 1,
+      "+1 heal2": 2,
+      "+1 immobilize": 2,
+      "+1 wound": 2,
+      "+3": 1,
+      "+0 rolling muddle": 3,
+      "+0 rolling element": 2
+    }
+  },
+  {
+    "name": "Valrath Red Guard",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 2,
+      "+0": 0,
+      "-1": 1,
+      "-2": 0,
+      "*0 shuffle": 1,
+      "+1 element2": 2,
+      "+1 shield1": 2,
+      "+1 immobilize": 1,
+      "+1 wound": 1,
+      "+2 element": 4
+    }
+  },
+  {
+    "name": "Inox Hatchet",
+    "deck": {
+      "*2 shuffle": 1,
+      "+2": 1,
+      "+1": 1,
+      "+0": 0,
+      "-1": 1,
+      "-2": 1,
+      "*0 shuffle": 1,
+      "+2 element": 3,
+      "+0 stun": 1,
+      "+1 immobilize": 1,
+      "+1 poison": 1,
+      "+1 push2": 1,
+      "+1 wound": 1,
+      "+2 muddle": 1,
+      "+1 stun": 1,
+      "+3": 3
+    }
+  }
+]
